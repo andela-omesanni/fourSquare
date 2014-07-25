@@ -73,7 +73,8 @@ li a:hover {
 }
 
 #intro h2 { 
-  text-shadow:1px 1px 0 #fff, 2px 2px 0 #000; 
+  /*text-shadow:1px 1px 0 #fff, 2px 2px 0 #000;*/
+  text-shadow: 0px 2px 0px #FCF9EE, 0px 4px 0px rgba(0, 0, 0, 0.15); 
   color: #ccc;  
   line-height: 35px;
 }
